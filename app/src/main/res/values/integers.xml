@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="original_svg_width">100</integer>
+    <integer name="original_svg_height">100</integer>
+    <integer name="stroke_drawing_duration">3000</integer>
+    <integer name="fill_duration">3000</integer>
+</resources>

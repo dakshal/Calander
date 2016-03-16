@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dakshal/Downloads/Calendar/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_c92a2315be4157ce56ddd0e22934daac8b60a1ad.jar" />
+    </item>
+    <item
+        jar="/Users/dakshal/Downloads/Calendar/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_c92a2315be4157ce56ddd0e22934daac8b60a1ad.jar" />
+    </item>
+    <item
+        jar="/Users/dakshal/Downloads/Calendar/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_9a6b5c9462c14b6edea8e8b852b15e760a37540c.jar" />
+    </item>
+    <item
+        jar="/Users/dakshal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_17a7f7ac99f26c5aef64c194ade1260293c44a0c.jar" />
+    </item>
+    <item
+        jar="/Users/dakshal/Downloads/Calendar/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_9a6b5c9462c14b6edea8e8b852b15e760a37540c.jar" />
+    </item>
+    <item
+        jar="/Users/dakshal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_17a7f7ac99f26c5aef64c194ade1260293c44a0c.jar" />
+    </item>
+    <item
+        jar="/Users/dakshal/Downloads/Calendar/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="349e840a8237277537fa68ce9dda755bde47674d">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/instant-run_a1c7b024c306fad24efc6583848138d1f4c0ac63.jar" />
+    </item>
+    <item
+        jar="/Users/dakshal/Downloads/Calendar/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2932fc7c0841bc9df2d99697ea6c2fe4e68cac2a">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/classes_a83cd2231565a08405b6320f027d47efc40c09df.jar" />
+    </item>
+    <item
+        jar="/Users/dakshal/Downloads/Calendar/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_f7fe5b2f47b4c184877bd45f3a8d2ae16980a374.jar" />
+    </item>
+    <item
+        jar="/Users/dakshal/Downloads/Calendar/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_bb4c8fbcf08a8c8e0102dadf1bf26fc573f2fec2.jar" />
+    </item>
+    <item
+        jar="/Users/dakshal/Downloads/Calendar/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_bb4c8fbcf08a8c8e0102dadf1bf26fc573f2fec2.jar" />
+    </item>
+    <item
+        jar="/Users/dakshal/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/library-2.4.0_768529edfd8590b831d2e8d047def770690bd860.jar" />
+    </item>
+    <item
+        jar="/Users/dakshal/Downloads/Calendar/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_4191d297bfb3a4623366c681c8d55a22a93962e6.jar" />
+    </item>
+    <item
+        jar="/Users/dakshal/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/library-2.4.0_768529edfd8590b831d2e8d047def770690bd860.jar" />
+    </item>
+    <item
+        jar="/Users/dakshal/Downloads/Calendar/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_4191d297bfb3a4623366c681c8d55a22a93962e6.jar" />
+    </item>
+    <item
+        jar="/Users/dakshal/Downloads/Calendar/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_f7fe5b2f47b4c184877bd45f3a8d2ae16980a374.jar" />
+    </item>
+    <item
+        jar="/Users/dakshal/Downloads/Calendar/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ac045b53684345f4ec8468477e8fc5034d0d2bfd">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/com.github.satyan-sugar-1.4_87e41c50a0c33171da433f2036aee6d362d74424.jar" />
+    </item>
+    <item
+        jar="/Users/dakshal/Downloads/Calendar/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.4/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ac045b53684345f4ec8468477e8fc5034d0d2bfd">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/com.github.satyan-sugar-1.4_87e41c50a0c33171da433f2036aee6d362d74424.jar" />
+    </item>
+    <item
+        jar="/Users/dakshal/Downloads/Calendar/app/build/intermediates/exploded-aar/com.wang.avi/library/1.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c8bb52b30819d4a0a9c114e6ada59924f056db27">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/com.wang.avi-library-1.0.3_e8aa406e607cd3fd720c00f4f72023ae50bf0514.jar" />
+    </item>
+    <item
+        jar="/Users/dakshal/Downloads/Calendar/app/build/intermediates/exploded-aar/com.wang.avi/library/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c8bb52b30819d4a0a9c114e6ada59924f056db27">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/com.wang.avi-library-1.0.3_e8aa406e607cd3fd720c00f4f72023ae50bf0514.jar" />
+    </item>
+    <item
+        jar="/Users/dakshal/Downloads/Calendar/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.0.1_1b332c8da896f5d989a94478e6f5d079c368c024.jar" />
+    </item>
+    <item
+        jar="/Users/dakshal/Downloads/Calendar/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.0.1_1b332c8da896f5d989a94478e6f5d079c368c024.jar" />
+    </item>
+    <item
+        jar="/Users/dakshal/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/guava-18.0_3575d95731101a002bf5b90594cc0b449a4782b6.jar" />
+    </item>
+    <item
+        jar="/Users/dakshal/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/dakshal/Downloads/Calendar/app/build/intermediates/pre-dexed/debug/guava-18.0_3575d95731101a002bf5b90594cc0b449a4782b6.jar" />
+    </item>
+
+</items>

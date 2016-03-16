@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NOTIFY</string>
+    <string name="reminder">Reminder Notifications</string>
+    <string name="title_activity_summary">Summary</string>
+    <string name="title_activity_task_of_the_day">Task Of The Day</string>
+</resources>

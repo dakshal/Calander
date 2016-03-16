@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".calendar">
+
+
+    <item
+        android:id="@+id/summary"
+        android:orderInCategory="100"
+        android:title="Summary"
+        app:showAsAction="never"
+        android:onClick="openSummary"
+        />
+    <item
+        android:id="@+id/tasks"
+        android:orderInCategory="101"
+        android:title="Tasks Of The Day"
+        app:showAsAction="never"
+        android:onClick="openTasks"
+        />
+
+</menu>
